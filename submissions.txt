@@ -1,8 +1,0 @@
-student, assignment, submission status
-here, Shell Navigation, submitted
-Noel, Shell Navigation, not submitted
-Chelsea, Shell Scripting, submitted
-Mercy, Linux Environment, not submitted
-Edmound, Shell Navigation, submitted
-Eldridge, Linux Environment, submitted
-Nancy, Shell Scripting, not submitted
