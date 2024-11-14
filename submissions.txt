@@ -1,0 +1,5 @@
+Student ID: 001, Name: Chelsea Nabwire, > Assignment: Project Report, >  Date Submitted: 2024-10-01, Status: Complete 
+Student ID: 003, Name: Edmound ELdridge, > Assignment: Python Inheretence, >  Date Submitted: 2024-10-10, Status: Incomplete 
+Student ID: 005, Name: Joyce Kamau, > Assignment: Shell Scripting, >  Date Submitted: 2024-10-05, Status: Complete
+Student ID: 002, Name: Faith Lewanoskey, > Assignment: Research methods, > Date Submitted: 2024-10-10, Status: Complete
+Student ID: 004, Name: Amina Hassan, > Assignment: Data Analysis, > Date Submitted: 2024-10-22, Status: Complete
